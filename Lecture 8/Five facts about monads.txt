@@ -1,0 +1,10 @@
+Five facts about monads:
+
+A monad is a structure that
+
+1. Represents computations.
+2. Chains operations together.
+3. Implements operators bind and return.
+4. Implements side-effects such as input/output, variable assignment, exception handling, parsing,
+concurrency, and continuations.
+5. Originates from the eponymous construct in category theory.
